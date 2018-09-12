@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+node_modules/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
 # C extensions
 *.so
